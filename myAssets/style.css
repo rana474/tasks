@@ -1,0 +1,6 @@
+body{background: skyblue; font-family: verdana; color: #fff; padding:30px;}
+h1{font-size: 50px; text-transform: uppercase; letter-spacing: 2px; text-align: center;}
+h2{padding-left:40px; font-size: 28px; text-transform: uppercase; letter-spacing: 2px; text-align: left;}
+p{font-size: 22px; text-align: center;}
+li{font-size: 16px; padding-left:40px; text-align: left;}
+ul{list-style-type: none; padding: 0;}
